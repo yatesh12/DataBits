@@ -1,6 +1,5 @@
 # DataBits: Advanced Data Preprocessing Tool
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Maintenance](https://img.shields.io/badge/Maintained-Yes-green.svg)](https://github.com/your-username/DataBits/graphs/contributors)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/your-username/DataBits)
 
@@ -80,10 +79,7 @@ Contributions are welcome! Please see the [Contributing Guidelines](CONTRIBUTING
 *   **Advanced Analytics:**  Integrate machine learning algorithms for deeper insights.
 *   **Cloud Integration:**  Connect to cloud storage and data processing services.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
-For questions, bug reports, or feature requests, please contact us at [your.email@example.com](mailto:your.email@example.com) or open an issue on GitHub.
+For questions, bug reports, or feature requests, please contact us at [yeteshahire@gmail.com](mailto:yeteshahire@gmail.com) or open an issue on GitHub.
